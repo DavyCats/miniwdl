@@ -22,9 +22,9 @@
 
 ## Installation
 
-pip: `pip3 install miniwdl` [![PyPI version](https://img.shields.io/pypi/v/miniwdl.svg)](https://pypi.org/project/miniwdl/)
+[![PyPI version](https://img.shields.io/pypi/v/miniwdl.svg)](https://pypi.org/project/miniwdl/) `pip3 install miniwdl`
 
-conda: [configure conda-forge](http://conda-forge.org/docs/user/introduction.html) and `conda install miniwdl` [![Anaconda-Server Badge](https://anaconda.org/conda-forge/miniwdl/badges/version.svg)](https://anaconda.org/conda-forge/miniwdl)
+[![Anaconda-Server Badge](https://anaconda.org/conda-forge/miniwdl/badges/version.svg)](https://anaconda.org/conda-forge/miniwdl)  [configure conda-forge](http://conda-forge.org/docs/user/introduction.html) and `conda install miniwdl` 
 
 locally: see the [Dockerfile](https://github.com/chanzuckerberg/miniwdl/blob/master/Dockerfile) for an example of dependencies prior to running `setup.py`
 
